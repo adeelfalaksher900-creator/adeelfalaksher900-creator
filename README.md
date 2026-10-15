@@ -1,55 +1,61 @@
 <h1 align="center">Adeel Falak Sher</h1>
-<p align="center"><strong>Frontend developer in progress · Web product builder · Quality-minded engineer</strong></p>
-<p align="center">I build approachable web experiences for education, digital safety, and communities.</p>
+
 <p align="center">
-  <a href="https://adeelfalaksher.cv/">Portfolio</a> ·
-  <a href="#selected-work">Selected work</a> ·
+  <strong>Frontend Development · Website QA · Practical AI & Security Projects</strong>
+</p>
+
+<p align="center">
+  <a href="https://adeelfalaksher.cv/">Portfolio</a> •
+  <a href="https://github.com/adeelfalaksher900-creator?tab=repositories">Repositories</a> •
   <a href="mailto:adeelfalaksher900@gmail.com">Email</a>
 </p>
-<p align="center"><sub>Based in Pakistan · Open to eligible remote junior development, website QA, and project-based roles</sub></p>
+
+<p align="center"><em>Based in Pakistan · Available for eligible remote junior, internship and project-based opportunities</em></p>
 
 ---
 
-### A little about me
+### About me
 
-I completed my higher secondary education in 2025 and have been using my gap year to learn through shipping projects, testing workflows, participating in hackathons, and documenting what works.
+I'm an early-career developer and project builder from **Hasilpur, Pakistan**. After completing my higher secondary education in 2025, I've spent my gap year learning through hands-on projects: building user interfaces, working with cloud backends, testing workflows, and improving the experience after release.
 
-My work is focused on **React/TypeScript interfaces, practical cloud integrations, accessible design, and reproducible testing**. I use AI-assisted developer tools where useful, then review the behavior, limitations, and output myself.
+I focus on **useful products, understandable code, accessible interfaces, and honest technical documentation**. I use AI-assisted tools thoughtfully and aim to validate the resulting code and behavior rather than treating generated output as proof that it works.
 
-### Selected work
+### Featured work
 
-| Project | Why it exists | Stack & evidence |
+| Project | The problem it explores | Evidence |
 | :--- | :--- | :--- |
-| [**SecondLook**](https://github.com/adeelfalaksher900-creator/secondlook-forgehacks) | Helps people examine suspicious messages and understand risk cues without sending their text to a hosted classifier. | In-browser TF-IDF/logistic regression, evaluation notes and browser testing. [Live demo](https://secondlook-forgehacks.vercel.app/) |
-| [**SATOpen**](https://satopen.pages.dev/) | Free digital SAT preparation with a structured 29-skill curriculum, practice and mock test workflows. | React, TypeScript, Cloudflare Workers/D1, Firebase. [Live product](https://satopen.pages.dev/) |
-| [**EVENTOS**](https://github.com/adeelfalaksher900-creator/smart-event-management-platform) | A clearer workflow for event teams, from registration to judging. | React/TypeScript frontend prototype. The current leaderboard and related backend behavior are simulated. |
-| [**Sign-to-Speech Tutor**](https://github.com/adeelfalaksher900-creator/Sign-to-Speech-Tutor) | A browser-based experiment in accessible communication and learning. | HTML, CSS, JavaScript, Web Speech API. [Live demo](https://adeelfalaksher900-creator.github.io/Sign-to-Speech-Tutor/) |
-| [**Kissan Code**](https://github.com/adeelfalaksher900-creator/Kissan-Code) | Introduces beginner programming concepts using relatable agriculture examples. | HTML, CSS, JavaScript. [Live demo](https://adeelfalaksher900-creator.github.io/Kissan-Code/) |
+| **[SecondLook](https://github.com/adeelfalaksher900-creator/secondlook-forgehacks)** | Help people critically review potentially suspicious messages while keeping classification in the browser. | Privacy-focused TF-IDF/logistic regression inference · [Live](https://secondlook-forgehacks.vercel.app/) |
+| **[SATOpen](https://github.com/adeelfalaksher900-creator/SATOpen)** | Make Digital SAT preparation approachable and free. | 29-skill learning system; lessons, practice and mock-test workflows · [Live](https://satopen.pages.dev/) |
+| **[EVENTOS](https://github.com/adeelfalaksher900-creator/smart-event-management-platform)** | Simplify event registration, teams, judging and organizer workflows. | React/TypeScript prototype; simulated demo data clearly labeled |
+| **[Sign-to-Speech Tutor](https://github.com/adeelfalaksher900-creator/Sign-to-Speech-Tutor)** | Explore accessible communication and learning experiences. | HTML, CSS, JavaScript, Web Speech API · [Live](https://adeelfalaksher900-creator.github.io/Sign-to-Speech-Tutor/) |
+| **[Kissan Code](https://github.com/adeelfalaksher900-creator/Kissan-Code)** | Introduce coding concepts through familiar agricultural examples. | Beginner-friendly browser experience · [Live](https://adeelfalaksher900-creator.github.io/Kissan-Code/) |
 
 ### Recognition
 
-🏆 **ForgeHacks Online 2026: AI + Cybersecurity track winner**, SecondLook. [Official organizers' winners announcement](https://forgehacks-2026.devpost.com/updates/46942-meet-the-winners) · [Project evidence](https://github.com/adeelfalaksher900-creator/secondlook-forgehacks)
+**🏆 ForgeHacks Online 2026 — AI + Cybersecurity track winner** for **SecondLook**.
 
-### Skills & tooling
+[Organizers' official announcement](https://forgehacks-2026.devpost.com/updates/46942-meet-the-winners) · [Project repository](https://github.com/adeelfalaksher900-creator/secondlook-forgehacks)
 
-| Focus | Tools and practices |
+### Tools & working approach
+
+| Area | Experience |
 | --- | --- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, responsive layouts |
-| **Backend and hosting** | Cloudflare Workers/D1, Firebase, Supabase, Netlify, Vercel |
-| **Development** | Git, GitHub, debugging, API integration, technical documentation |
-| **Product quality** | Manual functional testing, browser and mobile checks, accessibility basics, issue reproduction |
-| **Currently learning** | Python, machine learning fundamentals and evaluation |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, responsive layout |
+| **Services & hosting** | Cloudflare Workers/D1, Firebase, Supabase, Netlify, Vercel |
+| **Development** | Git/GitHub, API integration, debugging, documentation |
+| **Quality** | Manual functional checks, responsive testing, reproduction of bugs, accessibility fundamentals |
+| **Learning** | Python, machine learning foundations, model evaluation |
 
-### Learning
+### Education & continued learning
 
-- Machine Learning Specialization, **three course completions**, DeepLearning.AI / Stanford Online on Coursera, 2026. Coursework covers supervised learning, advanced learning algorithms, and unsupervised learning.
-- Intermediate (ICS), Daanish School Boys Hasilpur, 2025. **87.25%**, Mathematics **190/200**.
-- Matriculation, Science, 2023. **94.73%**.
+- **Higher Secondary Certificate (Intermediate)** — Daanish School Boys Hasilpur, 2025 · **87.25%** · Mathematics **190/200**
+- **Secondary School Certificate (Matriculation)** — Science, 2023 · **94.73%**
+- **Machine Learning Specialization coursework** — DeepLearning.AI / Stanford Online via Coursera, 2026; three course completions in supervised, advanced and unsupervised learning.
 
-### Contact
+### Let's connect
 
-I am interested in hands-on frontend work, website testing, documentation, and remote entry-level opportunities that accept applicants based in Pakistan.
+If you're hiring for an entry-level frontend, website testing, or technical assistant role open to someone working **remotely from Pakistan**, I'd be happy to share the relevant project, approach and implementation.
 
-**[adeelfalaksher.cv](https://adeelfalaksher.cv/)** · **[adeelfalaksher900@gmail.com](mailto:adeelfalaksher900@gmail.com)**
+**[adeelfalaksher.cv](https://adeelfalaksher.cv/)** · **[Email me](mailto:adeelfalaksher900@gmail.com)**
 
-<sub>Project descriptions are intentionally scoped to verified implementations. Demo metrics and mock data are not represented as production results.</sub>
+<sub>I distinguish implemented functionality from prototypes, simulated data, and work in progress. No professional employment or university degree is claimed.</sub>
